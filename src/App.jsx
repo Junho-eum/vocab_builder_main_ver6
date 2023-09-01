@@ -21,63 +21,63 @@ function App() {
     {
       word: "걱정",
       synonym: "apprehension",
-      hint: "Test day can be a time of great apprehension for many students.",
+      hint: "Test day can be a time of great ____ for many students.",
     },
     {
       word: "민첩함",
       synonym: "celerity",
-      hint: "The celerity with which the police responded to the bank robbery prevented the thieves from escaping.",
+      hint: "The ____ with which the police responded to the bank robbery prevented the thieves from escaping.",
     },
 
     {
       word: "꾀병을 부리다",
       synonym: "malinger",
-      hint: "The soldier malingered in order to avoid combat.",
+      hint: "The soldier ____ in order to avoid combat.",
     },
     {
       word: "통찰",
       synonym: "epiphany",
-      hint: "The scientist had an epiphany that led to a major breakthrough in his research.",
+      hint: "The scientist had an ____ that led to a major breakthrough in his research.",
     },
     {
       word: "익숙하게 하다",
       synonym: "inure",
-      hint: "The soldiers were inured to the hardships of war.",
+      hint: "The soldiers were ____ to the hardships of war.",
     },
     {
       word: "방해하다",
       synonym: "stymie",
-      hint:"The company's growth was stymied by a sluggish economy.",
+      hint:"The company's growth was ____ by a sluggish economy.",
     },
     {
       word: "찢을정도로 비난하다",
       synonym: "lacerate",
-      hint: "The lacerate wound required several stitches.",
+      hint: "The ____ wound required several stitches.",
     },
     {
       word: "해결",
       synonym: "denouement",
-      hint:"The denouement of the movie was unexpected.",
+      hint:"The ____ of the movie was unexpected.",
     },
     {
       word: "은밀한",
       synonym: "surreptitious",
-      hint: "The surreptitious spy was able to steal the plans without being noticed.",
+      hint: "The ____ spy was able to steal the plans without being noticed.",
     },
     {
       word: "강력한",
       synonym: "puissant",
-      hint: "The puissant king was able to defeat all of his enemies.",
+      hint: "The ____ king was able to defeat all of his enemies.",
     },
     {
       word: "아첨하다",
       synonym: "fawn",
-      hint: "The dog fawned over its owner.",
+      hint: "The dog ____ over its owner.",
     },
     {
       word: "당황하게 하다",
       synonym: "discomfit",
-      hint: "The politician was discomfited by the reporter's questions.",
+      hint: "The politician was ____ by the reporter's questions.",
     },
     {
       word: "궁핍한",
